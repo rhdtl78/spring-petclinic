@@ -1,4 +1,6 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic",
-    "editor.formatOnSave": true
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "editor.formatOnSave": true,
+  "sql-formatter.linesBetweenQueries": 2,
+  "sql-formatter.uppercase": true
 }
